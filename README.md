@@ -13,12 +13,6 @@ Atualmente atuo no desenvolvimento e manutenção de sistemas empresariais, cria
 
 ---
 
-## 📊 GitHub Stats
-
-![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorgb&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorgb&layout=compact&theme=tokyonight)
-
 ## 🚀 Sobre Mim
 
 * 🏢 Desenvolvimento e manutenção de ERP comercial
