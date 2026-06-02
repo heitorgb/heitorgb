@@ -7,9 +7,9 @@
 
 # 👋 Olá, eu sou Heitor Gonçalves
 
-💻 Desenvolvedor de Software especializado em **ERP, automação de processos, integrações bancárias e soluções com Inteligência Artificial**.
+💻 Desenvolvedor de Software com experiência em ERP, aplicações web, integrações bancárias, APIs REST e Inteligência Artificial.
 
-Atualmente atuo no desenvolvimento e manutenção de sistemas empresariais, criando soluções que conectam processos financeiros, fiscais e operacionais com tecnologias modernas.
+Atualmente atuo criando soluções que conectam sistemas legados em Delphi com tecnologias modernas como Python, FastAPI, PostgreSQL, Docker e IA.
 
 ---
 
