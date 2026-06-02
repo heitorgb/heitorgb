@@ -1,3 +1,10 @@
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=embarcadero&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 # 👋 Olá, eu sou Heitor Gonçalves
 
 💻 Desenvolvedor de Software especializado em **ERP, automação de processos, integrações bancárias e soluções com Inteligência Artificial**.
